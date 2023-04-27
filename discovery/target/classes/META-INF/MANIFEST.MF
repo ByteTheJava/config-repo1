@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: nchaware
+Build-Jdk: 17.0.2
+Implementation-Title: ms-discovery
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: eu.dreamix
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/ms-discovery/
+Created-By: Maven Integration for Eclipse
+
